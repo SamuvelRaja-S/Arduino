@@ -1,5 +1,5 @@
-int trig=D4;
-int echo=D3;
+int trig=3;
+int echo=2;
 int distance;
 int tim;
 void setup() {
